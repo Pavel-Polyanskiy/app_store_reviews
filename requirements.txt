@@ -1,0 +1,4 @@
+pandas
+app_store_scraper
+langdetect
+vaderSentiment
